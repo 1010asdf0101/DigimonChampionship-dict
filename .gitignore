@@ -7,6 +7,6 @@ Release/
 
 *.vcxproj
 
-*.vcxproj.filters
+*.filters
 
 *.vcxproj.user
